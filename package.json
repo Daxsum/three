@@ -29,6 +29,7 @@
     "typescript": "4.1.3"
   },
   "scripts": {
+     "deploy": "gh-pages -d dist"
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
