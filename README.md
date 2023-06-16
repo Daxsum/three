@@ -1,2 +1,2 @@
-# three
+# Three-sample
 Created with CodeSandbox
